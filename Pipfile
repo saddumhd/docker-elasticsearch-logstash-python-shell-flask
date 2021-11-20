@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 requests = "*"
 Flask = "*"
+pyspark = "*"
 
 [dev-packages]
 autopep8 = "*"
