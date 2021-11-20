@@ -20,3 +20,47 @@ cd elasticsearch_logstash_python_flask
 ./scripts/test-results.sh
 ./scripts/teardown-environment.sh
 ```
+
+## results
+
+```json
+{
+  "result": [
+    {
+      "Age": "1993-07-28",
+      "FullName": "Harry Kane",
+      "Overall": "78"
+    },
+    {
+      "Age": "1993-07-28",
+      "FullName": "Harry Kane",
+      "Overall": "71"
+    },
+    {
+      "Age": "1993-09-17",
+      "FullName": "Todd Kane",
+      "Overall": "68"
+    },
+    {
+      "Age": "1993-09-17",
+      "FullName": "Todd Kane",
+      "Overall": "64"
+    },
+    {
+      "Age": "1991-04-05",
+      "FullName": "Yann Boé-Kane",
+      "Overall": "63"
+    },
+    {
+      "Age": "1992-10-07",
+      "FullName": "Kane Ryan Ferdinand",
+      "Overall": "60"
+    },
+    {
+      "Age": "1992-04-08",
+      "FullName": "Kane Hemmings",
+      "Overall": "59"
+    }
+  ]
+}
+```
