@@ -8,7 +8,7 @@
 ```bash
 git clone https://github.com/sr-vishnu/elasticsearch_logstash_python_flask.git
 cd elasticsearch_logstash_python_flask/demo
-scriptreplay --timing=script-ts script-lo
+scriptreplay --timing=script-ts script-log
 ```
 
 ## steps to actually run the scripts
@@ -19,5 +19,4 @@ cd elasticsearch_logstash_python_flask
 ./scripts/init-index-and-middleware.sh
 ./scripts/test-results.sh
 ./scripts/teardown-environment.sh
-scriptreplay --timing=script-ts script-lo
 ```
