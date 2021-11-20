@@ -3,6 +3,8 @@
 * pipenv
 * python 3.7
 * docker
+* curl
+* jq
 
 ## steps to show a replay(not actually running anything on your machine)
 ```bash
