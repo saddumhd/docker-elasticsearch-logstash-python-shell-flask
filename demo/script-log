@@ -1,0 +1,147 @@
+Script started on 2021-11-20 17:44:48+05:30 [TERM="xterm-256color" TTY="/dev/pts/6" COLUMNS="211" LINES="53"]
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;vishnu@ubuntu-workstation:~/project/elasticsearch_logstash_python_flask]1;.._python_flask[0m[27m[24m[J 
+[35mvishnu[00m@[33mubuntu-workstation[00m: [01;34m~/project/elasticsearch_logstash_python_flask[00m [32mmaster[31m![00m
+$ [K[198C[32m[17:44:49][00m[208D[?1h=[?2004h../scripts[1m/[0m[0m/ini   
+[J[01;32minit-index-and-middleware.sh[0m*  [J[01;32mmake-environmet.sh[0m*            [J[01;32mteardown-environment.sh[0m*       [J[01;32mtest-results.sh[0m*             [J[A[0m[27m[24m[2C./scripts/[K[188C[32m[17:44:49][00m[198Dinit-index-and-middleware.sh
+[J[7minit-index-and-middleware.sh*[0m  [J[01;32mmake-environmet.sh[0m*            [J[01;32mteardown-environment.sh[0m*       [J[01;32mtest-results.sh[0m*             [J[A[0m[27m[24m[2C./scripts/init-index-and-middleware.sh[K[160C[32m[17:44:49][00m[170D
+[7minit-index-and-middleware.sh*[0m  [7minit-index-and-middleware.sh*[0m  [A[0m[27m[24m[2C./scripts/init-index-and-middleware.sh[K[160C[32m[17:44:49][00m[170D[28Dmake-environmet.sh          [10D
+[31C[7mmake-environmet.sh*          [0m  [01;32minit-index-and-middleware.sh[0m*  [A[0m[27m[24m[2C./scripts/make-environmet.sh[K[170C[32m[17:44:49][00m[180D[18Dteardown-environment.sh
+[62C[7mteardown-environment.sh*     [0m  [31C[01;32mmake-environmet.sh[0m*            [A[0m[27m[24m[2C./scripts/teardown-environment.sh[K[165C[32m[17:44:49][00m[175D[21Dst-results.sh        [8D
+[93C[7mtest-results.sh*             [0m[62C[01;32mteardown-environment.sh[0m*       [A[0m[27m[24m[2C./scripts/test-results.sh[K[173C[32m[17:44:49][00m[183D[15Dini[2Cindex-and-middleware.sh
+[7minit-index-and-middleware.sh*[0m  [93C[01;32mtest-results.sh[0m*             [A[0m[27m[24m[2C./scripts/init-index-and-middleware.sh[K[160C[32m[17:44:49][00m[170D[28Dmake-environmet.sh          [10D
+[31C[7mmake-environmet.sh*          [0m  [01;32minit-index-and-middleware.sh[0m*  [A[0m[27m[24m[2C./scripts/make-environmet.sh[K[170C[32m[17:44:49][00m[180D
+[J[A[30C[1m [0m[0m [?1l>[?2004l
+[J]2;./scripts/make-environmet.sh]1;./scripts/make-environmet.shError response from daemon: network with name elastic-net already exists
+network elastic-net already exists
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;vishnu@ubuntu-workstation:~/project/elasticsearch_logstash_python_flask]1;.._python_flask[0m[27m[24m[J 
+[35mvishnu[00m@[33mubuntu-workstation[00m: [01;34m~/project/elasticsearch_logstash_python_flask[00m [32mmaster[31m![00m
+$ [K[198C[32m[17:45:10][00m[208D[?1h=[?2004h../scripts[1m/[0m[0m/
+[J[01;32minit-index-and-middleware.sh[0m*  [J[01;32mmake-environmet.sh[0m*            [J[01;32mteardown-environment.sh[0m*       [J[01;32mtest-results.sh[0m*             [J[A[0m[27m[24m[2C./scripts/[K[188C[32m[17:45:10][00m[198Dinit-index-and-middleware.sh
+[J[7minit-index-and-middleware.sh*[0m  [J[01;32mmake-environmet.sh[0m*            [J[01;32mteardown-environment.sh[0m*       [J[01;32mtest-results.sh[0m*             [J[A[0m[27m[24m[2C./scripts/init-index-and-middleware.sh[K[160C[32m[17:45:10][00m[170D
+[7minit-index-and-middleware.sh*[0m  [7minit-index-and-middleware.sh*[0m  [A[0m[27m[24m[2C./scripts/init-index-and-middleware.sh[K[160C[32m[17:45:10][00m[170D
+[J[A[40C[1m [0m[0m [?1l>[?2004l
+[J]2;./scripts/init-index-and-middleware.sh]1;./scripts/init-index-and-middleware.sh[Saturday 20 November 2021 05:45:25 PM IST] starting elasticsearch
+a5d3c4e4f7b1cabb3a87e92d721aa9cf70316480e1e338a02183d2fdcbf6e515
+[Saturday 20 November 2021 05:45:25 PM IST] waiting for status [200]
+[Saturday 20 November 2021 05:45:28 PM IST] waiting for status [200]
+[Saturday 20 November 2021 05:45:31 PM IST] waiting for status [200]
+[Saturday 20 November 2021 05:45:34 PM IST] waiting for status [200]
+[Saturday 20 November 2021 05:45:37 PM IST] waiting for status [200]
+[Saturday 20 November 2021 05:45:41 PM IST] waiting for status [200]
+[Saturday 20 November 2021 05:45:44 PM IST] waiting for status [200]
+[Saturday 20 November 2021 05:45:47 PM IST] waiting for status [200]
+[Saturday 20 November 2021 05:45:50 PM IST] [elasticsearch] status OK
+[Saturday 20 November 2021 05:45:50 PM IST] adding index mapping template to elastic search
+[Saturday 20 November 2021 05:45:50 PM IST] received status code [200]
+[Saturday 20 November 2021 05:45:50 PM IST] starting logstash
+447914fbc6c6b27134119cc7b488afd637529e86013bbbaa0d7d0b5687a61513
+[Saturday 20 November 2021 05:45:51 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:45:54 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:45:57 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:46:00 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:46:03 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:46:06 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:46:09 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:46:12 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:46:15 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:46:18 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:46:21 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:46:24 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:46:27 PM IST] waiting for index creation
+[Saturday 20 November 2021 05:46:30 PM IST] [index creation successfull]
+[Saturday 20 November 2021 05:46:30 PM IST] build flask middleware component
+Sending build context to Docker daemon  557.1kBSending build context to Docker daemon  5.571MBSending build context to Docker daemon   9.47MBSending build context to Docker daemon  14.48MBSending build context to Docker daemon  22.28MBSending build context to Docker daemon  27.85MBSending build context to Docker daemon  33.98MBSending build context to Docker daemon  40.11MBSending build context to Docker daemon  44.56MBSending build context to Docker daemon  47.91MBSending build context to Docker daemon  53.48MBSending build context to Docker daemon   59.6MBSending build context to Docker daemon  61.83MBSending build context to Docker daemon  64.08MB
+Step 1/6 : FROM python:3.7-slim-buster
+ ---> cd7d26aa86ac
+Step 2/6 : WORKDIR /application
+ ---> Using cache
+ ---> 8c83aa408062
+Step 3/6 : COPY application/ .
+ ---> Using cache
+ ---> 6ccfd8a0d642
+Step 4/6 : COPY requirements.txt requirements.txt
+ ---> Using cache
+ ---> 2905406d207f
+Step 5/6 : RUN pip3 install -r requirements.txt
+ ---> Using cache
+ ---> d0bb7f10ed2c
+Step 6/6 : CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0"]
+ ---> Using cache
+ ---> ad004da635d9
+Successfully built ad004da635d9
+Successfully tagged middleware:1.0.0
+[Saturday 20 November 2021 05:46:32 PM IST] build flask middleware component [DONE]
+[Saturday 20 November 2021 05:46:32 PM IST] start the middleare
+c7f4fc6b3b17f167726eecffb39712c1123e3771b90a9bee4146a71088da73ca
+[Saturday 20 November 2021 05:46:33 PM IST] flask server can be reached at 127.0.0.1:5000 [DONE]
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;vishnu@ubuntu-workstation:~/project/elasticsearch_logstash_python_flask]1;.._python_flask[0m[27m[24m[J 
+[35mvishnu[00m@[33mubuntu-workstation[00m: [01;34m~/project/elasticsearch_logstash_python_flask[00m [32mmaster[31m![00m
+$ [K[198C[32m[17:46:33][00m[208D[?1h=[?2004h[H[2J[0m[27m[24m[J 
+[35mvishnu[00m@[33mubuntu-workstation[00m: [01;34m~/project/elasticsearch_logstash_python_flask[00m [32mmaster[31m![00m
+$ [K[198C[32m[17:46:38][00m[208D../scripts[1m/[0m[0m/
+[J[01;32minit-index-and-middleware.sh[0m*  [J[01;32mmake-environmet.sh[0m*            [J[01;32mteardown-environment.sh[0m*       [J[01;32mtest-results.sh[0m*             [J[A[0m[27m[24m[2C./scripts/[K[188C[32m[17:46:38][00m[198Dinit-index-and-middleware.sh
+[J[7minit-index-and-middleware.sh*[0m  [J[01;32mmake-environmet.sh[0m*            [J[01;32mteardown-environment.sh[0m*       [J[01;32mtest-results.sh[0m*             [J[A[0m[27m[24m[2C./scripts/init-index-and-middleware.sh[K[160C[32m[17:46:38][00m[170D
+[7minit-index-and-middleware.sh*[0m  [7minit-index-and-middleware.sh*[0m  [A[0m[27m[24m[2C./scripts/init-index-and-middleware.sh[K[160C[32m[17:46:38][00m[170D[28Dmake-environmet.sh          [10D
+[31C[7mmake-environmet.sh*          [0m  [01;32minit-index-and-middleware.sh[0m*  [A[0m[27m[24m[2C./scripts/make-environmet.sh[K[170C[32m[17:46:38][00m[180D[18Dteardown-environment.sh
+[62C[7mteardown-environment.sh*     [0m  [31C[01;32mmake-environmet.sh[0m*            [A[0m[27m[24m[2C./scripts/teardown-environment.sh[K[165C[32m[17:46:38][00m[175D[21Dst-results.sh        [8D
+[93C[7mtest-results.sh*             [0m[62C[01;32mteardown-environment.sh[0m*       [A[0m[27m[24m[2C./scripts/test-results.sh[K[173C[32m[17:46:38][00m[183D
+[J[A[27C[1m [0m[0m [?1l>[?2004l
+[J]2;./scripts/test-results.sh]1;./scripts/test-results.sh[1;39m{
+  [0m[34;1m"result"[0m[1;39m: [0m[1;39m[
+    [1;39m{
+      [0m[34;1m"Age"[0m[1;39m: [0m[0;32m"1993-07-28"[0m[1;39m,
+      [0m[34;1m"FullName"[0m[1;39m: [0m[0;32m"Harry Kane"[0m[1;39m,
+      [0m[34;1m"Overall"[0m[1;39m: [0m[0;32m"78"[0m[1;39m
+    [1;39m}[0m[1;39m,
+    [1;39m{
+      [0m[34;1m"Age"[0m[1;39m: [0m[0;32m"1993-07-28"[0m[1;39m,
+      [0m[34;1m"FullName"[0m[1;39m: [0m[0;32m"Harry Kane"[0m[1;39m,
+      [0m[34;1m"Overall"[0m[1;39m: [0m[0;32m"71"[0m[1;39m
+    [1;39m}[0m[1;39m,
+    [1;39m{
+      [0m[34;1m"Age"[0m[1;39m: [0m[0;32m"1993-09-17"[0m[1;39m,
+      [0m[34;1m"FullName"[0m[1;39m: [0m[0;32m"Todd Kane"[0m[1;39m,
+      [0m[34;1m"Overall"[0m[1;39m: [0m[0;32m"68"[0m[1;39m
+    [1;39m}[0m[1;39m,
+    [1;39m{
+      [0m[34;1m"Age"[0m[1;39m: [0m[0;32m"1993-09-17"[0m[1;39m,
+      [0m[34;1m"FullName"[0m[1;39m: [0m[0;32m"Todd Kane"[0m[1;39m,
+      [0m[34;1m"Overall"[0m[1;39m: [0m[0;32m"64"[0m[1;39m
+    [1;39m}[0m[1;39m,
+    [1;39m{
+      [0m[34;1m"Age"[0m[1;39m: [0m[0;32m"1991-04-05"[0m[1;39m,
+      [0m[34;1m"FullName"[0m[1;39m: [0m[0;32m"Yann Boé-Kane"[0m[1;39m,
+      [0m[34;1m"Overall"[0m[1;39m: [0m[0;32m"63"[0m[1;39m
+    [1;39m}[0m[1;39m,
+    [1;39m{
+      [0m[34;1m"Age"[0m[1;39m: [0m[0;32m"1992-10-07"[0m[1;39m,
+      [0m[34;1m"FullName"[0m[1;39m: [0m[0;32m"Kane Ryan Ferdinand"[0m[1;39m,
+      [0m[34;1m"Overall"[0m[1;39m: [0m[0;32m"60"[0m[1;39m
+    [1;39m}[0m[1;39m,
+    [1;39m{
+      [0m[34;1m"Age"[0m[1;39m: [0m[0;32m"1992-04-08"[0m[1;39m,
+      [0m[34;1m"FullName"[0m[1;39m: [0m[0;32m"Kane Hemmings"[0m[1;39m,
+      [0m[34;1m"Overall"[0m[1;39m: [0m[0;32m"59"[0m[1;39m
+    [1;39m}[0m[1;39m
+  [1;39m][0m[1;39m
+[1;39m}[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;vishnu@ubuntu-workstation:~/project/elasticsearch_logstash_python_flask]1;.._python_flask[0m[27m[24m[J 
+[35mvishnu[00m@[33mubuntu-workstation[00m: [01;34m~/project/elasticsearch_logstash_python_flask[00m [32mmaster[31m![00m
+$ [K[198C[32m[17:46:48][00m[208D[?1h=[?2004h../scripts[1m/[0m[0m/te
+[J[01;32mteardown-environment.sh[0m*  [J[01;32mtest-results.sh[0m*        [J[A[0m[27m[24m[2C./scripts/te[K[186C[32m[17:46:48][00m[196Dardown-environment.sh
+[J[7mteardown-environment.sh*[0m  [J[01;32mtest-results.sh[0m*        [J[A[0m[27m[24m[2C./scripts/teardown-environment.sh[K[165C[32m[17:46:48][00m[175D
+[7mteardown-environment.sh*[0m  [7mteardown-environment.sh*[0m  [A[0m[27m[24m[2C./scripts/teardown-environment.sh[K[165C[32m[17:46:48][00m[175D
+[J[A[35C[1m [0m[0m [H[2J[0m[27m[24m[J 
+[35mvishnu[00m@[33mubuntu-workstation[00m: [01;34m~/project/elasticsearch_logstash_python_flask[00m [32mmaster[31m![00m
+$ ./scripts/teardown-environment.sh[K[165C[32m[17:46:59][00m[175D[?1l>[?2004l
+]2;./scripts/teardown-environment.sh]1;./scripts/teardown-environment.shflask-middleware
+flask-middleware
+logstash
+logstash
+elasticsearch
+elasticsearch
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;vishnu@ubuntu-workstation:~/project/elasticsearch_logstash_python_flask]1;.._python_flask[0m[27m[24m[J 
+[35mvishnu[00m@[33mubuntu-workstation[00m: [01;34m~/project/elasticsearch_logstash_python_flask[00m [32mmaster[31m![00m
+$ [K[198C[32m[17:47:14][00m[208D[?1h=[?2004h[?2004l
+
+Script done on 2021-11-20 17:47:22+05:30 [COMMAND_EXIT_CODE="0"]
