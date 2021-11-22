@@ -67,4 +67,4 @@ cd elasticsearch_logstash_python_flask
 }
 ```
 ## Notebook
-[EXPLORATORY DATA ANALYSIS](https://nbviewer.org/github/sr-vishnu/elasticsearch_logstash_python_flask/blob/master/notebooks/exploratory_data_analysis.ipynb)
+[EXPLORATORY DATA ANALYSIS](https://nbviewer.org/github/sr-vishnu/elasticsearch_logstash_python_flask/blob/master/notebooks/notebook.ipynb)
