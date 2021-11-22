@@ -16,9 +16,8 @@
         "overall": {
           "type": "integer"
         },
-        "dob": {
-          "type": "date",
-          "format": "yyyy-MM-dd"
+        "age": {
+          "type": "integer"
         }
       }
     }

@@ -29,39 +29,54 @@ cd elasticsearch_logstash_python_flask
 {
   "result": [
     {
-      "Age": "1993-07-28",
+      "Age": "22",
+      "FullName": "Harry Kane",
+      "Overall": "84"
+    },
+    {
+      "Age": "21",
       "FullName": "Harry Kane",
       "Overall": "78"
     },
     {
-      "Age": "1993-07-28",
+      "Age": "20",
       "FullName": "Harry Kane",
       "Overall": "71"
     },
     {
-      "Age": "1993-09-17",
+      "Age": "22",
+      "FullName": "Todd Kane",
+      "Overall": "70"
+    },
+    {
+      "Age": "21",
       "FullName": "Todd Kane",
       "Overall": "68"
     },
     {
-      "Age": "1993-09-17",
+      "Age": "20",
       "FullName": "Todd Kane",
       "Overall": "64"
     },
     {
-      "Age": "1991-04-05",
+      "Age": "24",
+      "FullName": "Yann Boé-Kane",
+      "Overall": "64"
+    },
+    {
+      "Age": "23",
       "FullName": "Yann Boé-Kane",
       "Overall": "63"
     },
     {
-      "Age": "1992-10-07",
-      "FullName": "Kane Ryan Ferdinand",
-      "Overall": "60"
+      "Age": "23",
+      "FullName": "Kane Hemmings",
+      "Overall": "61"
     },
     {
-      "Age": "1992-04-08",
-      "FullName": "Kane Hemmings",
-      "Overall": "59"
+      "Age": "21",
+      "FullName": "Kane Ryan Ferdinand",
+      "Overall": "60"
     }
   ]
 }

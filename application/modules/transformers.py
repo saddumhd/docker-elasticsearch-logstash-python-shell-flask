@@ -11,7 +11,7 @@ class Transformer:
             """
             return {
                 "FullName": record.get("long_name"),
-                "Age": record.get("dob"),
+                "Age": record.get("age"),
                 "Overall": record.get("overall")
             }
 

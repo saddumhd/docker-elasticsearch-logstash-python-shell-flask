@@ -14,7 +14,7 @@ class Query:
             "_source": [
                 "long_name",
                 "overall",
-                "dob"
+                "age"
             ],
             "sort": [
                 {
