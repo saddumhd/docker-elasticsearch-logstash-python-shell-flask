@@ -2,6 +2,10 @@
 
 INDEX_NAME="players_fifa_v1" 
 
+echo "[`date`] creating docker network: [elastic-net]"
+
+docker network create elastic-net || echo "network elastic-net already exists"
+
 echo "[`date`] starting elasticsearch"
 
 docker run -d -p 127.0.0.1:9200:9200 \

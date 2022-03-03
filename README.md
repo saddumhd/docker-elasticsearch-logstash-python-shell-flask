@@ -19,13 +19,11 @@ scriptreplay --timing=script-ts script-log
 ```bash
 git clone https://github.com/sr-vishnu/docker-elasticsearch-logstash-python-shell-flask.git
 
-cd elasticsearch_logstash_python_flask
-
-./scripts/make-environmet.sh
+cd docker-elasticsearch-logstash-python-shell-flask
 
 ./scripts/init-index-and-middleware.sh
 
-./scripts/test-results.sh
+./scripts/test-results.sh <name of the player to search for>
 
 ./scripts/teardown-environment.sh
 ```
