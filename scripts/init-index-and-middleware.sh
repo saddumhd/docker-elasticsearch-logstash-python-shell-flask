@@ -4,7 +4,7 @@ INDEX_NAME="players_fifa_v1"
 
 echo "[`date`] creating docker network: [elastic-net]"
 
-docker network create elastic-net || echo "network elastic-net already exists"
+docker network create elastic-net &> /dev/null || echo "network [elastic-net] already exists"
 
 echo "[`date`] starting elasticsearch"
 
