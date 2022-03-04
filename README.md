@@ -23,7 +23,7 @@ cd docker-elasticsearch-logstash-python-shell-flask
 
 ./scripts/init-index-and-middleware.sh
 
-./scripts/test-results.sh <name of the player to search for>
+./scripts/test-results.sh PLAYER_NAME
 
 ./scripts/teardown-environment.sh
 ```
