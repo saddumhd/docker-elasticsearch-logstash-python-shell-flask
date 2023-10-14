@@ -27,3 +27,4 @@ cd docker-elasticsearch-logstash-python-shell-flask
 
 ./scripts/teardown-environment.sh
 ```
+,,
